@@ -12,8 +12,7 @@ Este projeto implementa um modelo inicial para o **Problema de Roteamento de Ve�
 
 ## 📁 Estrutura dos Arquivo
 
-- `instancias/*.txt`  
-  Diretório com instâncias de teste, incluindo a instância `toy`.
+- `instancia-toy.txt` e `instancia.txt` instâncias de teste
 
 ## 🧾 Formato da Instância
 
